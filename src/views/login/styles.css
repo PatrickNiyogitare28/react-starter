@@ -1,0 +1,9 @@
+.login-form-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.login-form-container h1{
+    text-align: center;
+}

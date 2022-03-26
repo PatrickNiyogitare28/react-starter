@@ -1,0 +1,14 @@
+.login-form{
+    width: 30vw;
+    display: block;
+}
+.login-btn{
+    width: 98%;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 19px;
+    color: white;
+    background-color: black;
+    border-width: 0px;
+    margin-top: 3em;
+}
